@@ -1,0 +1,132 @@
+ingredient,safety,description,rating
+parabens,harmful,"Preservatives used to extend shelf life, but may disrupt hormonal function.",1
+fragrance,caution,"Added for scent but can cause irritation and allergic reactions in some people.",3
+sodium lauryl sulfate,harmful,"Surfactant and cleanser, but can cause skin dryness and irritation.",2
+glycerin,safe,"A humectant that draws moisture to the skin, keeping it hydrated and smooth.",5
+aloe vera,safe,"A soothing ingredient known for its calming and anti-inflammatory properties.",5
+alcohol,caution,"Used as a solvent; can dry out and irritate the skin in high concentrations.",3
+niacinamide,safe,"A form of Vitamin B3 that helps reduce inflammation, even skin tone, and improve texture.",5
+phenoxyethanol,caution,"A preservative that can cause skin irritation in sensitive individuals.",3
+retinol,safe,"A form of Vitamin A, often used to reduce wrinkles and acne by speeding up skin cell turnover.",4
+formaldehyde,harmful,"A preservative that can cause skin irritation, allergic reactions, and is a carcinogen.",1
+vitamin C,safe,"An antioxidant that brightens the skin, reduces fine lines, and fights free radicals.",5
+hyaluronic acid,safe,"A powerful humectant that retains moisture in the skin, keeping it plump and hydrated.",5
+salicylic acid,safe,"A Beta Hydroxy Acid (BHA) used to exfoliate skin and treat acne.",5
+tea tree oil,safe,"An essential oil known for its antimicrobial and anti-inflammatory properties.",5
+citric acid,safe,"A natural exfoliant derived from citrus fruits, used to brighten and smooth skin.",5
+sodium chloride,caution,"Common salt that can dry out the skin in high concentrations.",3
+dimethicone,safe,"A silicone that creates a smooth layer on the skin, preventing moisture loss and giving a silky feel.",5
+hydroquinone,harmful,"A skin lightening agent that can cause irritation and sensitivity in some individuals.",1
+shea butter,safe,"A rich moisturizer that helps to soften and hydrate the skin.",5
+coconut oil,safe,"A natural oil that moisturizes and has antimicrobial properties.",5
+zinc oxide,safe,"A physical sunscreen ingredient that protects the skin from UV damage.",5
+titanium dioxide,safe,"A mineral sunscreen ingredient that protects against UVA and UVB rays.",5
+benzoyl peroxide,harmful,"Used to treat acne but can cause dryness, irritation, and sensitivity to the skin.",2
+retinoid,safe,"A derivative of Vitamin A that helps reduce acne and signs of aging.",5
+lanolin,caution,"Derived from sheep wool, used as an emollient, but can cause allergic reactions in some individuals.",3
+cetearyl alcohol,safe,"A fatty alcohol that acts as an emollient, emulsifier, and thickener.",3
+butylene glycol,caution,"A humectant that can be irritating to sensitive skin types.",3
+phytosphingosine,safe,"A lipid molecule that helps repair the skin barrier and reduce inflammation.",5
+peptides,safe,"Short chains of amino acids that stimulate collagen production and improve skin elasticity.",5
+ceramides,safe,"Lipids that help restore the skin barrier and lock in moisture.",5
+tretinoin,safe,"A prescription form of Vitamin A, commonly used for acne and anti-aging purposes.",5
+glycolic acid,safe,"An Alpha Hydroxy Acid (AHA) used to exfoliate and brighten the skin.",5
+octinoxate,harmful,"A chemical sunscreen agent that can cause skin irritation and disrupt hormonal function.",2
+menthol,safe,"A cooling agent derived from mint, used to soothe and refresh the skin.",5
+lavender oil,safe,"An essential oil known for its calming and antimicrobial properties.",5
+rose water,safe,"A soothing ingredient that hydrates, balances, and refreshes the skin.",5
+cucumber extract,safe,"A cooling and hydrating extract that helps calm and refresh the skin.",5
+pomegranate extract,safe,"An antioxidant-rich extract that helps fight free radicals and promote healthy skin.",5
+green tea extract,safe,"A potent antioxidant that helps reduce redness and protects against sun damage.",5
+Aqua,Safe,"Aqua is simply water used as a solvent to dissolve other ingredients and provide hydration. It is the most common base in cosmetic and skincare products.",5
+Butyl Methoxydibenzoylmethane,Moderate,"Also known as Avobenzone, it is a chemical sunscreen agent that absorbs the full spectrum of UVA rays. While effective, it can degrade in sunlight unless stabilized and may cause irritation in sensitive skin.",3
+Acetyl Hexapeptide-8,Safe,"A peptide that helps reduce the appearance of fine lines and wrinkles by relaxing facial muscles.",5
+Allantoin,Safe,"A compound that soothes and protects the skin, promoting healing and reducing irritation.",5
+Alpha-Arbutin,Safe,"A skin-brightening agent that helps reduce hyperpigmentation and even out skin tone.",5
+Argan Oil,Safe,"A natural oil rich in antioxidants and fatty acids, used to moisturize and nourish the skin.",5
+Azelaic Acid,Safe,"A dicarboxylic acid that helps treat acne and rosacea by reducing inflammation and bacteria.",5
+Bakuchiol,Safe,"A plant-based alternative to retinol that helps reduce signs of aging without irritation.",5
+Beta-Glucan,Safe,"A polysaccharide that soothes and moisturizes the skin, enhancing its natural barrier.",5
+Bisabolol,Safe,"A compound derived from chamomile that calms and soothes irritated skin.",5
+Black Tea Ferment,Safe,"An antioxidant-rich ingredient that helps improve skin texture and radiance.",5
+Blue Tansy Oil,Safe,"An essential oil known for its calming and anti-inflammatory properties.",5
+Caffeine,Safe,"A stimulant that helps reduce puffiness and dark circles by constricting blood vessels.",5
+Calendula Extract,Safe,"A plant extract with anti-inflammatory and healing properties, used to soothe skin.",5
+Camellia Sinensis Leaf Extract,Safe,"Also known as green tea extract, it provides antioxidant and anti-inflammatory benefits.",5
+Caprylic/Capric Triglyceride,Safe,"An emollient derived from coconut oil and glycerin, used to moisturize and replenish skin.",5
+Carbomer,Safe,"A thickening agent used to stabilize and control the viscosity of cosmetic products.",5
+Centella Asiatica Extract,Safe,"A plant extract that promotes collagen production and soothes irritated skin.",5
+Ceramide NP,Safe,"A type of ceramide that helps restore the skin barrier and retain moisture.",5
+Ceteareth-20,Caution,"An emulsifier that can be irritating to sensitive skin and may contain impurities.",3
+Cetearyl Glucoside,Safe,"An emulsifier that helps blend oil and water components in skincare formulations.",5
+Chamomile Extract,Safe,"A botanical extract known for its calming and anti-inflammatory properties.",5
+Charcoal Powder,Safe,"An ingredient that helps draw out impurities and toxins from the skin.",5
+Chondrus Crispus Extract,Safe,"Also known as Irish moss extract, it hydrates and soothes the skin.",5
+Citronellol,Caution,"A fragrance ingredient that can cause allergic reactions in sensitive individuals.",3
+Cocamidopropyl Betaine,Caution,"A surfactant derived from coconut oil that can cause irritation in some people.",3
+Coenzyme Q10,Safe,"An antioxidant that helps protect the skin from oxidative stress and signs of aging.",5
+Colloidal Oatmeal,Safe,"A finely ground oatmeal that soothes and protects dry, irritated skin.",5
+Copper Peptides,Safe,"Peptides that promote healing, improve skin elasticity, and reduce wrinkles.",5
+Cucumber Extract,Safe,"A hydrating and soothing ingredient that helps calm the skin.",5
+Dipotassium Glycyrrhizate,Safe,"A licorice root derivative that soothes and calms irritated skin.",5
+Edelweiss Extract,Safe,"A plant extract with antioxidant properties that protect the skin from environmental stress.",5
+Ethyl Ascorbic Acid,Safe,"A stable form of vitamin C that brightens the skin and reduces pigmentation.",5
+Evening Primrose Oil,Safe,"A natural oil rich in fatty acids that moisturizes and soothes the skin.",5
+Ferulic Acid,Safe,"An antioxidant that enhances the stability and efficacy of vitamins C and E.",5
+Galactomyces Ferment Filtrate,Safe,"A yeast-derived ingredient that hydrates and brightens the skin.",5
+Ginkgo Biloba Extract,Safe,"An antioxidant-rich extract that improves skin circulation and reduces inflammation.",5
+Glutathione,Safe,"A powerful antioxidant that helps brighten the skin and reduce melanin production.",5
+Glyceryl Stearate,Safe,"An emulsifier that helps stabilize and thicken cosmetic formulations.",5
+Gotu Kola Extract,Safe,"A plant extract that promotes collagen production and improves skin elasticity.",5
+Grape Seed Oil,Safe,"A lightweight oil rich in antioxidants and fatty acids, used to moisturize the skin.",5
+Hamamelis Virginiana Extract,Caution,"Also known as witch hazel, it can be drying and irritating to sensitive skin.",3
+Helianthus Annuus Seed Oil,Safe,"Sunflower seed oil that moisturizes and nourishes the skin.",5
+Hexylresorcinol,Safe,"A skin-brightening agent that helps reduce hyperpigmentation and even skin tone.",5
+Hydrolyzed Collagen,Safe,"A protein that helps improve skin elasticity and hydration.",5
+Hydroxyethyl Urea,Safe,"A humectant that attracts moisture to the skin, keeping it hydrated.",5
+Isopropyl Myristate,Caution,"An emollient that can clog pores and cause breakouts in acne-prone skin.",3
+Jojoba Esters,Safe,"A wax ester that moisturizes and softens the skin.",5
+Kojic Acid,Caution,"A skin-lightening agent that can cause irritation and sensitivity in some individuals.",3
+Lactic Acid,Safe,"An alpha hydroxy acid (AHA) that exfoliates and hydrates the skin.",5
+Lecithin,Safe,"An emulsifier and moisturizer that helps improve skin texture.",5
+Licorice Root Extract,Safe,"A natural extract that soothes the skin and helps reduce hyperpigmentation.",5
+Linoleic Acid,Safe,"An essential fatty acid that strengthens the skin barrier and retains moisture.",5
+Macadamia Integrifolia Seed Oil,Safe,"A nourishing oil rich in fatty acids that moisturizes the skin.",5
+Magnesium Ascorbyl Phosphate,Safe,"A stable form of vitamin C that brightens the skin and reduces signs of aging.",5
+Malic Acid,Safe,"An alpha hydroxy acid (AHA) that exfoliates and improves skin texture.",5
+Mandelic Acid,Safe,"An AHA derived from almonds that exfoliates and brightens the skin.",5
+Moringa Oleifera Seed Oil,Safe,"A nutrient-rich oil that moisturizes and nourishes the skin.",5
+Oenothera Biennis Oil,Safe,"Evening primrose oil that soothes and moisturizes the skin.",5
+Olive Oil,Safe,"A natural oil rich in antioxidants and fatty acids, used to moisturize the skin.",5
+Panthenol,Safe,"Also known as provitamin B5, it hydrates and soothes the skin.",5
+Squalane,Safe,"A stable hydrocarbon that mimics the skin's natural oils, providing lightweight moisture without clogging pores.",5
+Petrolatum,Safe,"An occlusive agent that seals in moisture, often used in healing ointments and balms.",5
+Mineral Oil,Caution,"A moisturizing agent derived from petroleum; generally safe but may clog pores in some skin types.",3
+Polysorbate 20,Caution,"An emulsifier used to blend oil and water; safe in low concentrations but may irritate sensitive skin.",3
+BHT,Harmful,"A synthetic antioxidant used to preserve products; linked to potential hormone disruption.",2
+BHA (Butylated Hydroxyanisole),Harmful,"A preservative and antioxidant suspected of being a human carcinogen and hormone disruptor.",1
+EDTA,Caution,"A chelating agent used to improve product stability; considered safe but can enhance skin penetration of other chemicals.",3
+Caprylyl Glycol,Safe,"A humectant and skin-conditioning agent that helps maintain moisture.",5
+Stearic Acid,Safe,"A fatty acid used as an emulsifier and thickener; helps condition and protect the skin.",5
+Tocopherol,Safe,"A form of Vitamin E that acts as an antioxidant and helps protect skin from environmental stressors.",5
+Urea,Safe,"A hydrating and exfoliating ingredient that improves moisture retention and skin texture.",5
+Resveratrol,Safe,"A powerful antioxidant found in grapes that protects against free radicals and has anti-aging properties.",5
+Aluminum Chlorohydrate,Harmful,"Common in antiperspirants; blocks sweat glands but is linked to potential health concerns.",1
+Talc,Caution,"Used for its absorbent properties; may be contaminated with asbestos if not properly purified.",3
+Octocrylene,Caution,"A UV filter often used in sunscreens; can cause irritation and allergic reactions in some people.",3
+Ethylhexylglycerin,Safe,"A preservative and skin-conditioning agent with antimicrobial properties.",5
+Polyglyceryl-6 Distearate,Safe,"An emulsifier derived from natural oils, helps improve product texture and spreadability.",5
+Hydrogenated Polyisobutene,Safe,"A synthetic oil used as a lubricant and moisturizer in skincare products.",5
+Sorbitan Olivate,Safe,"A natural emulsifier derived from olives, used to moisturize and soften skin.",5
+Triethanolamine,Caution,"Used to balance pH in cosmetics; can be irritating and form harmful nitrosamines when mixed with certain preservatives.",3
+Silica,Safe,"A mineral used for oil control and to provide a smooth, matte finish.",5
+Kaolin Clay,Safe,"A natural clay used to absorb oil and impurities, great for oily or acne-prone skin.",5
+Benzyl Alcohol,Caution,"A preservative and solvent that can be irritating to sensitive skin.",3
+Hydroxypropyl Methylcellulose,Safe,"A thickener and film-forming agent used in moisturizers and cleansers.",5
+Phenethyl Alcohol,Caution,"A preservative with a rose-like scent; can cause irritation in sensitive individuals.",3
+Carnauba Wax,Safe,"A natural wax derived from the leaves of the carnauba palm, used for thickening and gloss.",5
+Beeswax,Safe,"A natural wax used to lock in moisture and provide structure to balms and creams.",5
+Ethylhexyl Palmitate,Caution,"An emollient that gives a silky texture but may clog pores in acne-prone skin.",3
+PEG-100 Stearate,Caution,"An emulsifier derived from polyethylene glycol; may be contaminated with ethylene oxide or 1,4-dioxane.",3
+Benzophenone-3 (Oxybenzone),Harmful,"A chemical sunscreen ingredient linked to hormone disruption and allergic reactions.",1
+
